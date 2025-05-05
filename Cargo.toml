@@ -1,0 +1,8 @@
+[package]
+name = "quadrant"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nav = "0.1.5"
+ndarray = "0.16.1"
